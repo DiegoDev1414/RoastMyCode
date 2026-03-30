@@ -1,0 +1,15 @@
+{
+  "name": "roastmycode",
+  "version": "1.0.0",
+  "description": "Tu código merece sufrir. 11 herramientas de IA para analizar código en español latinoamericano.",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "dotenv": "^16.0.0",
+    "express": "^4.18.0"
+  },
+  "author": "DiegoDev1414",
+  "license": "MIT"
+}
